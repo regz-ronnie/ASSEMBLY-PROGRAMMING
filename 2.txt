@@ -1,0 +1,5 @@
+
+Memory Segment	Description
+.data	Stores initialized data like strings and constants.
+.bss	Stores uninitialized variables allocated at runtime.
+.text	Stores the actual program code (instructions).
